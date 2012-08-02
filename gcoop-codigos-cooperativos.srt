@@ -1,0 +1,548 @@
+1
+00:00:12,260 --> 00:00:15,000
+códigos cooperativos
+
+2
+00:00:15,400 --> 00:00:18,000
+Nuestra vida está atravesada por programas de computación,
+
+3
+00:00:18,100 --> 00:00:19,900
+es decir, software
+
+4
+00:00:21,000 --> 00:00:25,900
+Software es el nombre que se le da a una idea o un conjunto de ideas que permiten el funcionamiento de las máquinas
+
+5
+00:00:26,000 --> 00:00:29,419
+celulares, cámaras de foto, aviones, o semáforos.
+
+6
+00:00:29,519 --> 00:00:36,501
+Hoy, las ideas que tienen las personas y que hacen operar las máquinas se venden por todas partes.
+
+7
+00:00:41,000 --> 00:00:42,000
+Casualmente ahí vemos a un ser humano promedio
+
+8
+00:00:42,100 --> 00:00:45,139
+en este caso, una mujer.
+
+9
+00:00:46,881 --> 00:00:48,715
+Está enviando un mensaje a través de su teléfono.
+
+10
+00:00:00,000 --> 00:00:00,000
+Jefe tengo el software.
+
+11
+00:00:00,000 --> 00:00:00,000
+Acaba de comprar un software privativo para imprimir las ideas que le ha pedido su jefe.
+
+12
+00:00:53,823 --> 00:00:54,543
+Debería estar feliz.
+
+13
+00:00:59,511 --> 00:01:00,511
+Pero ¿cómo se encierra una idea en una caja y se logra venderla?
+
+14
+00:01:04,062 --> 00:01:05,062
+Una idea es una forma o una apariencia que se le ocurre a alguien.
+
+15
+00:01:05,162 --> 00:01:07,000
+Es decir, es algo inmaterial.
+
+16
+00:01:07,100 --> 00:01:11,610
+Para poder mostrar una idea y convidarla es necesario volverla algo material.
+
+17
+00:01:12,678 --> 00:01:16,045
+Nosotros la ilustramos con el dibujo de esta lamparita junto a nuestra amiga, la Mujer Promedio.
+
+18
+00:01:17,276 --> 00:01:21,873
+La lamparita es un invento que patentó Thomas Alva Edison en 1880.
+
+19
+00:01:21,973 --> 00:01:25,356
+Pero la idea ya había sido planteada por Humphry Davy
+
+20
+00:00:25,400 --> 00:01:27,492
+y anteriormente por Warren De La Rue.
+
+21
+00:00:28,000 --> 00:01:33,715
+Es decir, Edison patentó una idea que tomó distintas formas a partir del intercambio de conocimientos.
+
+22
+00:01:33,878 --> 00:01:38,754
+No hace falta que una idea se vuelva algo palpable para que se convierta en un objeto material.
+
+23
+00:01:39,752 --> 00:01:45,790
+Muy atrás en el tiempo, los humanos desarrollaron el lenguaje, que es la materia que les permite representar sus ideas.
+
+24
+00:01:46,672 --> 00:01:52,059
+El lenguaje posibilita a los humanos una relación diferente con la naturaleza a la que tienen los animales.
+
+25
+00:00:00,000 --> 00:02:01,602
+El lenguaje permite la existencia de la cultura, es decir, todo ese intercambio de ideas que hace que el hombre pueda organizarse en comunidad y cooperar.
+
+26
+00:02:03,228 --> 00:02:05,782
+La Mujer Promedio pertenece a la cultura occidental.
+
+27
+00:00:00,000 --> 00:02:11,680
+En los orígenes de esta cultura, las personas intercambiaban sus ideas en asambleas y espacios públicos abiertos.
+
+28
+00:00:00,000 --> 00:02:17,996
+Lamentablemente, hoy los espacios públicos tienen rejas y las ideas no se pueden intercambiar tan libremente.
+
+29
+00:00:00,000 --> 00:02:19,250
+Veamos.
+
+30
+00:00:00,000 --> 00:02:24,938
+Para que el software pueda ser un objeto material, alguien tiene que haber pensado una idea y haberla escrito.
+
+31
+00:00:00,000 --> 00:02:27,678
+Es decir, el software es una escritura.
+
+32
+00:00:00,000 --> 00:02:32,671
+A quienes escriben las ideas que se vuelven software los llamamos desarrolladores o programadores.
+
+33
+00:02:32,771 --> 00:02:35,596
+Casualmente, aquí tenemos un programador.
+
+34
+00:00:00,000 --> 00:00:00,000
+El bueno del programador desarrolla en este momento una idea utilizando el lenguaje,
+
+35
+00:00:00,100 --> 00:02:45,767
+pero en un idioma extraño que sólo entienden las máquinas... y los programadores.
+
+36
+00:00:00,000 --> 00:02:52,617
+Este idioma extraño se escribe también en una computadora y se lo ordena para que la máquina haga lo que uno quiere.
+
+37
+00:00:00,000 --> 00:02:55,449
+A ese escrito lo llamamos Código Fuente.
+
+38
+00:00:00,000 --> 00:03:01,603
+El bueno del programador ha tenido la idea de desarrollar una lamparita de otro color completamente libre.
+
+39
+00:03:07,106 --> 00:03:16,580
+Como una idea que viaja a través del lenguaje, los programas tienen la posibilidad de ser copiados, reinterpretados, agregados, reinventados y vueltos a transmitir.
+
+40
+00:03:19,854 --> 00:03:24,428
+Privar al software de su espíritu colectivo es privar a los humanos del intercambio de ideas,
+
+41
+00:03:24,428 --> 00:03:26,471
+es decir, privarlos de su cultura.
+
+42
+00:03:27,168 --> 00:03:29,838
+Es como poner una lamparita detrás de una ventana
+
+43
+00:03:29,838 --> 00:00:01,100
+ o encerrar a una persona en una plaza pública.
+
+44
+00:03:33,577 --> 00:03:36,688
+Pero, mejor hablemos con un especialista que nos ordene las ideas.
+
+45
+00:03:37,454 --> 00:03:38,848
+Esto es un especialista.
+
+46
+00:03:39,776 --> 00:03:44,211
+El software privativo y el software libre se diferencian básicamente en las libertades que se le dan al usuario.
+
+47
+00:00:00,000 --> 00:03:59,165
+El software libre permite al usuario aprender del programa, modificarlo, redistribuirlo, mientras que el software privativo no puede hacer mas que usarlo con algunas restricciones y siempre está atado a la empresa que lo generó.
+
+48
+00:00:00,000 --> 00:04:00,465
+Gracias, especialista.
+
+49
+00:00:00,000 --> 00:04:03,136
+Pero ¿cómo llegamos al software privativo?
+
+50
+00:00:00,000 --> 00:04:04,668
+Muy sencillo.
+
+51
+00:00:00,000 --> 00:04:10,636
+Las empresas de software privativo toman la idea del bueno del programador y encierran el "código fuente".
+
+52
+00:00:00,000 --> 00:04:17,021
+Bajo leyes de propiedad intelectual que ellas mismas hicieron promulgar, adoptan la forma más restrictiva:
+
+53
+00:00:00,000 --> 00:04:18,879
+"Todos los derechos reservados".
+
+54
+00:00:00,000 --> 00:04:25,636
+De esa manera, nuestra amiga lo único que puede hacer es, con suerte, utilizar el programa.
+
+55
+00:00:00,000 --> 00:04:28,051
+Hay en esto una pequeña trampa.
+
+56
+00:00:00,000 --> 00:04:34,274
+La propiedad intelectual se basa en la idea de autor como aquella persona creadora de una obra original, sin precedentes.
+
+57
+00:00:00,000 --> 00:04:42,354
+Sin embargo, la palabra "autor" proviene del latín "auctor", que, a su vez, proviene de "augere": que es aumentar, hacer progresar.
+
+58
+00:00:00,000 --> 00:04:47,973
+Es decir, un autor no inventa nada, sólo perfecciona algo que ya existía.
+
+59
+00:00:00,000 --> 00:04:56,774
+En 1883, los líderes mundiales firman el Convenio de París, que reconoce legalmente la propiedad intelectual y permite la exportación de ideas.
+
+60
+00:00:00,000 --> 00:05:02,045
+Claro está que en 1883 no existía el software como lo conocemos hoy.
+
+61
+00:00:00,000 --> 00:05:04,413
+Hablemos con otro especialista que nos actualice.
+
+62
+00:00:00,000 --> 00:05:07,826
+El software nace con las computadoras en la década del 50.
+
+63
+00:00:00,000 --> 00:05:29,073
+El software se transforma en una mercancía y se lo comienza a limitar de forma tal de  no sea un elemento disponible digamos como puede ser el conocimiento público en función de permitir el desarrollo de empresas cada vez más monopólicas.
+
+64
+00:00:00,000 --> 00:00:00,000
+Ajá. ¿Pero qué significa eso en el día a día del bueno del programador?
+
+65
+00:00:00,000 --> 00:00:00,000
+El costo de desarrollo se reduce cada vez más, se habla de que es un 5% aproximadamente del precio del software lo que efectivamente va al programador, mientras que el resto va al dueño del producto que tiene de alguna manera la propiedad sobre el código fuente, sobre esa propiedad intelectual.
+
+66
+00:00:00,000 --> 00:00:00,000
+Clarísimo.
+
+67
+00:00:00,000 --> 00:00:00,000
+Es decir: si el bueno del programador trabajara para una empresa transnacional de software privativo se quedaría solo con el 5% de lo que cuesta empaquetar su idea y venderla.
+
+68
+00:00:00,000 --> 00:00:00,000
+Nuestra Mujer Promedio ha sido víctima de la publicidad y ha deseado ese paquete.
+
+69
+00:00:00,000 --> 00:00:00,000
+Veamos cómo le va.
+
+70
+00:00:00,000 --> 00:00:00,000
+Está instalando su software privativo y parece feliz.
+
+71
+00:00:00,000 --> 00:00:00,000
+Jó! Pero qué linda imagen de entorno tiene.
+
+72
+00:00:00,000 --> 00:00:00,000
+Oh Oh, parece que algo no anda bien.
+
+73
+00:00:00,000 --> 00:00:00,000
+El paquete no avisaba que la impresora no era compatible con el programa.
+
+74
+00:00:00,000 --> 00:00:00,000
+Habrá que comprar otra impresora.
+
+75
+00:00:00,000 --> 00:00:00,000
+Su jefe le ha reclamado sus ideas para que la empresa en la que trabaja pueda seguir lucrando.
+
+76
+00:00:00,000 --> 00:00:00,000
+Ahora sí parece que va a poder imprimir sus ideas y llevárselas a su jefe.
+
+77
+00:00:00,000 --> 00:00:00,000
+Epa, parece que algo no anda bien.
+
+78
+00:00:00,000 --> 00:00:00,000
+El antivirus necesita otra actualización para revisar la nueva impresora.
+
+79
+00:00:00,000 --> 00:00:00,000
+Es decir, necesita comprar otro software privativo y pagar otra licencia.
+
+80
+00:00:00,000 --> 00:00:00,000
+A no desesperar, amiga.
+
+81
+00:00:00,000 --> 00:00:00,000
+Sabemos que casi todo el mundo es horrible, pero no todo el software es privativo, y no todas las empresas buscan extirparte el dinero.
+
+82
+00:00:00,000 --> 00:00:00,000
+El bueno del programador no ha sido contratado por una transnacional, sino que ha decidido organizarse en una cooperativa de software libre.
+
+83
+00:00:00,000 --> 00:00:00,000
+En una cooperativa, los socios se reúnen para cooperar.
+
+84
+00:00:00,000 --> 00:00:00,000
+Cooperar es obrar conjuntamente con otros para un mismo fin. Esto es una cooperativa.
+
+85
+00:00:00,000 --> 00:00:00,000
+El bueno del programador dice que la empresa con fines de lucro se organiza verticalmente y las decisiones las toma el capitalista.
+
+86
+00:00:00,000 --> 00:00:00,000
+En cambio Una cooperativa, se organiza de forma horizontal y cada socio representa un voto.
+
+87
+00:00:00,000 --> 00:00:00,000
+Es decir, las decisiones se toman en asamblea.
+
+88
+00:00:00,000 --> 00:00:00,000
+El modelo de desarrollo en una empresa de software privativo es cerrado, la estructura organizativa es piramidal, depende de un jefe, "el que sabe, sabe y el que no, es jefe".
+
+89
+00:00:00,000 --> 00:00:00,000
+Y básicamente tenemos que el que tiene que hacer las tareas, los trabajadores, están a las corridas, porque todo es para mañana o es para ayer y son los últimos en enterarse, así como le pasa a nuestra amiga.
+
+90
+00:00:00,000 --> 00:00:00,000
+En contraposición el modelo cooperativo garantiza la participación igualitaria en la toma de decisiones y en la realización del trabajo.
+
+91
+00:00:00,000 --> 00:00:00,000
+Y esto es el mejor modelo alineado con el desarrollo del software libre.
+
+92
+00:00:00,000 --> 00:00:00,000
+A todo esto, ¿cómo se organiza el trabajo en una cooperativa?
+
+93
+00:00:00,000 --> 00:00:00,000
+Este especialista nos puede ayudar.
+
+94
+00:00:00,000 --> 00:00:00,000
+En el sistema capitalista, a grandes rasgos tenemos dos tipos de empresas, las sociedades de capital y las sociedades de personas, en el caso particular de las cooperativas, como las cooperativas de trabajo a la cual yo pertenezco es una empresa, donde el trabajador se provee de trabajo y el trabajo manda y está subordinado el capital, al revés que en la empresa de capital.
+
+95
+00:00:00,000 --> 00:00:00,000
+Clarísimo.
+
+96
+00:00:00,000 --> 00:00:00,000
+Ahora, ya que usted es un especialista, ¿podría resumirnos en veinte segundos el origen del capital y del capitalismo?
+
+97
+00:00:00,000 --> 00:00:00,000
+No... no, no podría...
+
+98
+00:00:00,000 --> 00:00:00,000
+Bueno, está bien, tendremos que hacerlo nosotros.
+
+99
+00:00:00,000 --> 00:00:00,000
+El capitalismo es el sistema económico y político que  posee dos elementos principales:
+
+100
+00:00:00,000 --> 00:00:00,000
+el capital (que son los recursos que se disponen para producir algo) y el capitalista (quien dispone los recursos y se queda con la ganancia).
+
+101
+00:00:00,000 --> 00:00:00,000
+Pero también es necesario un trabajador.
+
+102
+00:00:00,000 --> 00:00:00,000
+La Mujer Promedio o un programador son los ejemplos típicos de un trabajador.
+
+103
+00:00:00,000 --> 00:00:00,000
+Nuestra amiga, por la empresa en la que trabaja, ya le está serruchando el piso a sus compañeros.
+
+104
+00:00:00,000 --> 00:00:00,000
+La mayor cantidad de personas en el mundo no tiene mercancías para vender en el mercado y obtener ganancias.
+
+105
+00:00:00,000 --> 00:00:00,000
+Por eso lo que venden es su fuerza de trabajo.
+
+106
+00:00:00,000 --> 00:00:00,000
+La fuerza de trabajo es la capacidad que tiene toda persona para producir algo.
+
+107
+00:00:00,000 --> 00:00:00,000
+Al venderla por unas horas, el capitalista le da dinero.
+
+108
+00:00:00,000 --> 00:00:00,000
+A ese dinero lo llamamos salario.
+
+109
+00:00:00,000 --> 00:00:00,000
+En el salario, el capitalista se ahorra parte de lo que cuesta la fuerza de trabajo y se la queda para él.
+
+110
+00:00:00,000 --> 00:00:00,000
+A ese ahorro se lo llama ganancia o explotación de los trabajadores.
+
+111
+00:00:00,000 --> 00:00:00,000
+A la Mujer Promedio, que es una trabajadora y que ha debido comprarle su programa a una empresa con fines de lucro, le han quitado parte de su salario y otra parte la ha tenido que gastar en comprar un software privativo, una nueva impresora y, además, tendrá que comprar un nuevo antivirus.
+
+112
+00:00:00,000 --> 00:00:00,000
+Preguntémosle a otro especialista si está de acuerdo con el resumen que hicimos del capitalismo.
+
+113
+00:00:00,000 --> 00:00:00,000
+Mmmmmm....
+
+114
+00:00:00,000 --> 00:00:00,000
+Excelente. Ahora, cuéntenos, ¿cómo aparece el cooperativismo en Argentina?
+
+115
+00:00:00,000 --> 00:00:00,000
+Hacia fines del siglo XIX, lo que pasa es que hay una inmigración muy fuerte en el país y se encuentran con que no tienen absolutamente nada, donde ir a parar. Y comenzaban ellos mismos a pergeñar distintas formas de organizarse entre sí, como para darse una mano en todo lo que necesitaban, de tal modo que, en esta forma creaban también, comenzaron a aparecer en el país las primeras organizaciones cooperativas.
+
+116
+00:00:00,000 --> 00:00:00,000
+Gracias, especialista.
+
+117
+00:00:00,000 --> 00:00:00,000
+Muchas veces, las cooperativas están fuera de nuestra vista. Eh, chist, chist, ahí no. Exacto, ahí.
+
+118
+00:00:00,000 --> 00:00:00,000
+Hay distintas formas de clasificar las cooperativas. Entre ellas encontramos las cooperativas de trabajo, que son asociaciones de personas reunidas con el fin de mejorar su situación social y económica.
+
+119
+00:00:00,000 --> 00:00:00,000
+En una cooperativa de trabajo de software libre hay trabajadores que piensan ideas y desarrollan su cultura. Pero ¿cómo funciona una cooperativa diariamente? Hablemos con un socio de GCOOP.
+
+120
+00:00:00,000 --> 00:00:00,000
+Esto es un socio. Un socio es una persona que trabaja conjuntamente con otras para desarrollar una actividad, ya sea empresarial, social o cultural.
+
+121
+00:00:00,000 --> 00:00:00,000
+Nosotros no vendemos cajitas, ni vendemos licencias, sino vendemos los servicios asociados al software, o sea la adaptación, la implementación y la capacitación para el uso de un determinado software que resuelve un problema en una organización.
+
+122
+00:00:00,000 --> 00:00:00,000
+Nos pagan, por los servicios asociados, por nuestro trabajo, o sea nos pagan una vez y nosotros hacemos el trabajo una vez, en el otro modelo vos haces el trabajo una vez, y te pagan para siempre.
+
+123
+00:00:00,000 --> 00:00:00,000
+Preguntémosle al programador por qué la gente cree que puede tener mayor inconvenientes utilizando software libre que utilizando software privativo.
+
+124
+00:00:00,000 --> 00:00:00,000
+No hay software que no tenga errores, la diferencia está que en el software privativo, uno no ve los errores y tiene toda una campaña de marketing, que te dice "esto funciona, esto anda bárbaro". En el software libre somos abiertos y decimos "éstos son los errores, los vamos a corregir".
+
+125
+00:00:00,000 --> 00:00:00,000
+Y ya que estamos, ¿cómo puede el software libre ayudar a nuestra amiga con su problema?
+
+126
+00:00:00,000 --> 00:00:00,000
+Bueno, contrata un programador a que solucione ese problema, ahí es donde entro yo, modificando el programa para que haga lo que mi amiga necesite, está en línea con el modelo de economía social.
+
+127
+00:00:00,000 --> 00:00:00,000
+¿A qué se refiere?
+
+128
+00:00:00,000 --> 00:00:00,000
+Software libre, es economía social, porque genera empleo local y logra que la plata del país, se queda en el país.
+
+129
+00:00:00,000 --> 00:00:00,000
+La autogestión con el poder en la toma de decisiones se contrapone a lo que antes sólo le competía a los dueños de las empresas.
+
+130
+00:00:00,000 --> 00:00:00,000
+Jefe,#**#*** Renuncio
+
+131
+00:00:00,000 --> 00:00:00,000
+Bien hecho, amiga. Y a no temer por tus decisiones, las cooperativas de software del país se han agrupado en la Federación Argentina de Cooperativas de Trabajo de Tecnología, Innovación y Conocimiento (FACTTIC) y nunca te dejarán sola.
+
+132
+00:00:00,000 --> 00:00:00,000
+La utilización de software debe ser un acto cada vez más consciente. Las empresas que venden ideas justifican sus precios haciéndonos creer que el software es una enorme industria. Y nuestra amiga ya nos ha demostrado que se trata sólo el empaquetamiento de ideas libres.
+
+133
+00:00:00,000 --> 00:00:00,000
+El software privativo se basa en la idea del original que no se puede copiar. La originalidad no existe. Existe la humanidad y la humanidad, hasta donde sabemos, se nutre y avanza por su cultura, por medio de intercambios y de reescrituras.
+
+134
+00:00:00,000 --> 00:00:00,000
+Nuestra amiga ha aprendido que todo software es libre de por sí y, que si quiere imprimir y difundir libremente sus ideas, puede hacerlo mejor y más económicamente a través de él.
+
+135
+00:00:00,000 --> 00:00:00,000
+Pero sabe más. Ha aprendido que trabajar de manera colectiva y amena trae beneficios, no sólo económicos, sino también sociales para el resto de la humanidad
+
+136
+00:00:00,000 --> 00:00:00,000
+Nuestra amiga ha dejado de ser un ser humano promedio y se está convirtiendo en... una cooperativista modelo.
+
+137
+00:00:00,000 --> 00:00:00,000
+
+
