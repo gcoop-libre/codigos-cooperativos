@@ -1,0 +1,876 @@
+1
+00:00:00,000 --> 00:00:06,000
+subtitles: OSiRiS CC-BY-SA, English Translation by María Verónica Di Genno
+
+2
+00:00:09,633 --> 00:00:11,000
+Gcoop presents
+
+3
+00:00:12,270 --> 00:00:14,400
+cooperative codes
+
+4
+00:00:15,000 --> 00:00:18,000
+Computer programs have permeated our life,
+
+5
+00:00:18,100 --> 00:00:19,200
+that is to say, software
+
+6
+00:00:19,600 --> 00:00:25,870
+Software is the name given to an idea or to a collection of ideas that let the operation of machinery
+
+7
+00:00:26,000 --> 00:00:29,200
+cell phones, cameras, planes, and traffic lights.
+
+8
+00:00:29,968 --> 00:00:35,660
+Today, people's ideas which make machines function are sold everywhere.
+
+9
+00:00:40,246 --> 00:00:42,000
+Actually, here we can see an average human being
+
+10
+00:00:42,499 --> 00:00:45,100
+in this case, a woman.
+
+11
+00:00:45,826 --> 00:00:48,715
+She's sending a text message through her phone.
+
+12
+00:00:48,815 --> 00:00:52,000
+She's just purchased proprietary software to print some ideas as instructed by her boss.
+
+13
+00:00:53,094 --> 00:00:54,543
+She should be happy.
+
+14
+00:00:57,476 --> 00:01:00,511
+But, how can someone pack an idea in a box and be able to sell it?
+
+15
+00:01:02,062 --> 00:01:05,062
+An idea is a form or an aspect that occurres to somebody.
+
+16
+00:01:05,162 --> 00:01:07,000
+That is to say, it's something immaterial.
+
+17
+00:01:07,100 --> 00:01:11,610
+To be able to show an idea and to offer it, it's necessary to make it material.
+
+18
+00:01:11,710 --> 00:01:15,350
+We illustrate it with a drawing of this light bulb next to our friend
+
+19
+00:01:15,423 --> 00:01:17,176
+the Average Woman
+
+20
+00:01:17,276 --> 00:01:21,400
+The light bulb is an invention that Thomas Alva Edison patented in 1880.
+
+21
+00:01:21,867 --> 00:01:24,850
+But the idea had already been put forward by Humphry Davy
+
+22
+00:01:25,007 --> 00:01:27,000
+and previously, by Warren De La Rue.
+
+23
+00:01:27,213 --> 00:01:33,000
+That is to say, Edison patented an idea that took various forms starting from the exchange of knowledge.
+
+24
+00:01:33,669 --> 00:01:38,600
+It isn't necessary for an idea to turn into something palpable to become a material object.
+
+25
+00:01:38,700 --> 00:01:42,000
+Far back in time, humans developed language,
+
+26
+00:01:42,100 --> 00:01:45,100
+which is the matter that allows them to represent their ideas.
+
+27
+00:01:45,733 --> 00:01:51,500
+Language enables humans to relate in a different way with nature in comparison to the way animals do it.
+
+28
+00:01:52,168 --> 00:01:54,800
+Language permits culture to exist,
+
+29
+00:01:54,900 --> 00:02:01,000
+that is to say, all this exchange of ideas enables man to interact and cooperate in a community
+
+30
+00:02:02,614 --> 00:02:05,200
+The Average Woman belongs to the western culture.
+
+31
+00:02:05,830 --> 00:02:11,100
+In the origin of this culture, people used to exchange their ideas within assemblies and public open spaces.
+
+32
+00:02:11,496 --> 00:02:14,500
+Unfortunately, today public spaces have bars
+
+33
+00:02:14,601 --> 00:02:17,300
+and ideas cannot be exchanged so freely.
+
+34
+00:02:17,817 --> 00:02:18,600
+Let's see.
+
+35
+00:02:19,221 --> 00:02:24,400
+For software to be able to be a material object, somebody must have thought an idea and have written it.
+
+36
+00:02:24,691 --> 00:02:27,100
+That is to say, software is a script.
+
+37
+00:02:27,200 --> 00:02:32,100
+The ones who write the ideas that become software are called developers or programmers.
+
+38
+00:02:32,771 --> 00:02:35,500
+Acturally, here we have a programmer.
+
+39
+00:02:36,541 --> 00:02:40,700
+At this moment, the good old programmer is developing an idea by using the script,
+
+40
+00:02:41,076 --> 00:02:43,700
+but in a strange language that only machines can understand...
+
+41
+00:02:44,000 --> 00:02:45,100
+and the programmers
+
+42
+00:02:46,384 --> 00:02:49,300
+This strange language is also written in a computer
+
+43
+00:02:49,400 --> 00:02:52,000
+and it is arranged in a certain way so as to have the machine do what one wants it to do.
+
+44
+00:02:52,680 --> 00:02:55,000
+We call those scripts Source Code.
+
+45
+00:02:55,700 --> 00:02:59,650
+The good old programmer has had the idea of developing a different colour light bulb,
+
+46
+00:02:59,761 --> 00:03:01,000
+completely free.
+
+47
+00:03:06,844 --> 00:03:09,100
+Like an idea that travels through language,
+
+48
+00:03:09,200 --> 00:03:12,750
+programs have the possibility of being copied, reinterpreted,
+
+49
+00:03:12,890 --> 00:03:15,800
+added, reinvented and transmitted again.
+
+50
+00:03:19,367 --> 00:03:24,000
+To depirve software of its collective spirit is to deprive humans of the exchange of ideas,
+
+51
+00:03:24,131 --> 00:03:26,500
+that is to say, to deprive them of their culture.
+
+52
+00:03:26,845 --> 00:03:29,300
+It's like putting a light bulb behind a window
+
+53
+00:03:29,703 --> 00:03:32,000
+or to lock up a person in a public square.
+
+54
+00:03:33,072 --> 00:03:36,000
+But, let's talk to a specialist who can explain these ideas to us.
+
+55
+00:03:36,526 --> 00:03:38,100
+This is a specialist.
+
+56
+00:03:38,636 --> 00:03:44,000
+Proprietary software basically differs from free software on freedom conferred to the users.
+
+57
+00:03:44,100 --> 00:03:46,100
+Free software allows the user
+
+58
+00:03:46,200 --> 00:03:49,100
+to learn from the program, modify it...
+
+59
+00:03:49,244 --> 00:03:55,500
+redistribute it, whereas proprietary software can only let people use it with some restrictions.
+
+60
+00:03:55,600 --> 00:03:58,200
+and it is always tied to the company that created it
+
+61
+00:03:58,534 --> 00:04:00,000
+Thank you, specialist.
+
+62
+00:04:00,278 --> 00:04:03,000
+But, how did we get to the proprietary software?
+
+63
+00:04:03,383 --> 00:04:04,300
+Very simple.
+
+64
+00:04:04,464 --> 00:04:10,100
+Proprietary software companies take the good old programmer's idea and hide the "source code."
+
+65
+00:04:11,000 --> 00:04:16,700
+They take the most restrictive form under the laws of intelectual property that they indeed have them promulgated:
+
+66
+00:04:16,876 --> 00:04:18,500
+"All rights reserved."
+
+67
+00:04:19,607 --> 00:04:25,300
+This way, the only thing that our friend can hopefully do is to use the program.
+
+68
+00:04:26,000 --> 00:04:27,550
+Here there is a samll trap.
+
+69
+00:04:27,697 --> 00:04:28,950
+Intelectual property
+
+70
+00:04:29,041 --> 00:04:33,900
+is fundamentally based on the idea that an author is that person who creates an original unprecedented work.
+
+71
+00:04:34,001 --> 00:04:37,400
+However, the word "author" comes from the Latin word "auctor",
+
+72
+00:04:37,500 --> 00:04:41,700
+which, in turn, comes from "augere": which means increase, to advance.
+
+73
+00:04:43,000 --> 00:04:45,100
+That is to say, an author doesn't invent anything
+
+74
+00:04:45,222 --> 00:04:47,300
+they only improve something that already existed.
+
+75
+00:04:48,000 --> 00:04:52,200
+In 1883, world leaders sign the Paris Convention,
+
+76
+00:04:52,308 --> 00:04:56,200
+which legally recognizes intelectual property and allows export of ideas.
+
+77
+00:04:57,200 --> 00:05:01,750
+Of course, in 1883 software was not as we know it today.
+
+78
+00:05:01,922 --> 00:05:04,000
+Let's talk to another specialist in order for him to update us.
+
+79
+00:05:04,601 --> 00:05:07,650
+Software is born with computers in the 50s.
+
+80
+00:05:07,800 --> 00:05:15,600
+Software transforms into a commodity and it starts to be limited in such a way as not to be
+
+81
+00:05:15,763 --> 00:05:21,550
+... an available element say as public knowlegde can be.
+
+82
+00:05:21,803 --> 00:05:28,000
+on the basis of letting increasingly monopolistic companies to develop.
+
+83
+00:05:28,100 --> 00:05:32,000
+Uh-huh... But what does that mean on the good old programmer daily basis?
+
+84
+00:05:32,241 --> 00:05:36,100
+There is a constant reduction in the cost of development,
+
+85
+00:05:36,262 --> 00:05:41,500
+It is said that from the price of software, about 5% is
+
+86
+00:05:41,660 --> 00:05:44,000
+what the programmer indeed earns
+
+87
+00:05:44,100 --> 00:05:49,700
+whereas the owner of the product receives the rest who has in some way
+
+88
+00:05:49,810 --> 00:05:54,700
+the ownership of the source code, of that intelectual property.
+
+89
+00:05:54,973 --> 00:05:56,080
+Crystal clear.
+
+90
+00:05:56,200 --> 00:06:01,150
+That is to say: if the good old programmer worked for a transnational proprietary software company
+
+91
+00:06:01,200 --> 00:06:05,200
+he/she would only earn the 5% of what it costs to pack his/her idea and sell it.
+
+92
+00:06:05,787 --> 00:06:09,800
+Our Average Woman has been a victim of advertising and she has wanted this package.
+
+93
+00:06:10,439 --> 00:06:11,700
+Let's see how she is doing.
+
+94
+00:06:12,591 --> 00:06:15,600
+She's installing her proprietary software and she seems happy.
+
+95
+00:06:16,887 --> 00:06:19,600
+Argh! It has what you call a pretty environment image.
+
+96
+00:06:22,375 --> 00:06:26,000
+Oh Oh, it seems that something doesn't work well.
+
+97
+00:06:26,424 --> 00:06:30,000
+The package didn't say that the printer wasn't compatible with the program.
+
+98
+00:06:35,952 --> 00:06:37,600
+She'll have to buy another printer.
+
+99
+00:06:38,190 --> 00:06:42,500
+Her boss has demanded her ideas in order for the company, where she works, be able to continue profiting.
+
+100
+00:06:46,348 --> 00:06:50,000
+Now it seems that she will be able to print her ideas and take them to her boss.
+
+101
+00:06:53,383 --> 00:06:56,000
+Oops, it seems that something doesn't work well.
+
+102
+00:06:56,100 --> 00:07:00,100
+The antivirus needs another update to scan the new printer.
+
+103
+00:07:00,393 --> 00:07:05,000
+That is to say, she needs to buy another proprietary software and to pay for another license.
+
+104
+00:07:06,000 --> 00:07:08,000
+Do not worry, friend.
+
+105
+00:07:08,178 --> 00:07:12,350
+We know that almost everything is horrible, but not all software is proprietary,
+
+106
+00:07:12,414 --> 00:07:15,100
+and not all companies aim at stamping out your money.
+
+107
+00:07:16,336 --> 00:07:19,800
+The good old programmer hasn't been hired by a transnational,
+
+108
+00:07:19,900 --> 00:07:23,600
+he decided to organise a free software cooperative.
+
+109
+00:07:23,700 --> 00:07:27,160
+In a cooperative, the members meet to cooperate.
+
+110
+00:07:27,336 --> 00:07:31,000
+To cooperate is to act jointly with others for a common goal.
+
+111
+00:07:31,100 --> 00:07:33,000
+This is a cooperative.
+
+112
+00:07:33,674 --> 00:07:38,000
+The good old programmer says that a for-profit enterprise is organised in a hierarchical way
+
+113
+00:07:38,100 --> 00:07:40,500
+and the decisions are taken by the capitalist.
+
+114
+00:07:40,600 --> 00:07:46,000
+On the other hand, a cooperative is organized in a horizontal way and each member represents a vote.
+
+115
+00:07:46,452 --> 00:07:49,500
+That is to say, decisions are taken in assembly.
+
+116
+00:07:53,000 --> 00:07:56,700
+The development model of a proprietary software company is closed,
+
+117
+00:07:56,941 --> 00:07:59,140
+the organizational structure is pyramidal,
+
+118
+00:07:59,200 --> 00:08:02,680
+it depends on a boss, "those who can't do, teach"
+
+119
+00:08:02,780 --> 00:08:05,500
+Basically, the one who has to do the tasks,
+
+120
+00:08:05,653 --> 00:08:06,600
+the workers,
+
+121
+00:08:06,700 --> 00:08:09,600
+work in a rush, because everything has to be done for tomorrow or for yesterday
+
+122
+00:08:09,808 --> 00:08:13,728
+they are the last ones to find out about changes.It happens the same to our friend.
+
+123
+00:08:13,828 --> 00:08:20,950
+On the contrary, cooperative model garanties equal participation in decision making and doing the work.
+
+124
+00:08:21,280 --> 00:08:26,000
+And this is the best model in line with free software development.
+
+125
+00:08:26,100 --> 00:08:29,100
+By the way, how is work organized in a cooperative?
+
+126
+00:08:29,762 --> 00:08:31,500
+This specialist can help us.
+
+127
+00:08:31,642 --> 00:08:36,400
+Generally speaking, in the capitalist system we have two kinds of companies,
+
+128
+00:08:36,823 --> 00:08:39,900
+limited liability companies and partnerships,
+
+129
+00:08:40,013 --> 00:08:46,200
+in the particular case of cooperatives, like work cooperatives where I belong to
+
+130
+00:08:46,300 --> 00:08:51,100
+it's an enterprise, where the worker finds work for themselves
+
+131
+00:08:51,380 --> 00:08:57,100
+and work leads and it's subordinated to capital, in liability companies it's the other way around.
+
+132
+00:08:57,200 --> 00:08:58,200
+Crystal clear.
+
+133
+00:08:58,423 --> 00:09:04,000
+Now, since you're a specialist, could you sum up the origin of capital and capitalism in twenty seconds?
+
+134
+00:09:04,100 --> 00:09:05,550
+No..., indeed, I couldn't...
+
+135
+00:09:05,841 --> 00:09:08,500
+Ok, it's alright, we'll have to do it.
+
+136
+00:09:09,000 --> 00:09:13,500
+Capitalism is the economic and political system which has got two main elements:
+
+137
+00:09:13,700 --> 00:09:21,000
+capital (the resources that are available to produce something) and the capitalist (possesses the resources and earns the profit).
+
+138
+00:09:21,563 --> 00:09:24,000
+But a worker is also necessary.
+
+139
+00:09:24,300 --> 00:09:28,300
+The Average Woman or a programmer are typical examples of a worker.
+
+140
+00:09:28,700 --> 00:09:33,800
+Our friend, due to the company where she works, she's already undermining her co-workers jobs.
+
+141
+00:09:34,604 --> 00:09:39,600
+Most of the people in the world haven't got goods to sell in the market and make a profit.
+
+142
+00:09:39,700 --> 00:09:42,400
+That's why what they sell is their work force.
+
+143
+00:09:43,477 --> 00:09:47,600
+Work force is the capacity of every person to produce something.
+
+144
+00:09:48,300 --> 00:09:51,300
+A person sells it for some hours, the capitalist gives them money.
+
+145
+00:09:51,644 --> 00:09:54,200
+We call that money salary.
+
+146
+00:09:54,817 --> 00:09:59,700
+In the salary, the capitalist saves part of what costs the work force and keeps the money for himself.
+
+147
+00:10:00,313 --> 00:10:04,600
+That saving is called profit or exploitation of workers.
+
+148
+00:10:05,000 --> 00:10:11,000
+The Average Woman, who is a worker and had to buy her program from a for-profit enterprise,
+
+149
+00:10:11,100 --> 00:10:13,000
+has part of her salary taken away
+
+150
+00:10:13,120 --> 00:10:16,700
+and she has spent part of her salary in buying proprietary software,
+
+151
+00:10:16,813 --> 00:10:21,000
+a new printer and, besides, she'll have to buy another antivirus software.
+
+152
+00:10:21,352 --> 00:10:25,300
+Let's ask another specialist if he agrees with our summary about capitalism.
+
+153
+00:10:26,379 --> 00:10:28,400
+Mmmmmm....
+
+154
+00:10:29,246 --> 00:10:34,000
+Excellent. Now, tell us, how does cooperativism appear in Argentina?
+
+155
+00:10:34,100 --> 00:10:42,300
+At the end of the XIX century, there is a big immigration in the nation and those immigrants find out that they have got
+
+156
+00:10:42,500 --> 00:10:44,700
+absolutely nothing, nor where to go.
+
+157
+00:10:44,951 --> 00:10:50,650
+And they started to outline different forms of organising among themselves,
+
+158
+00:10:50,807 --> 00:10:53,656
+so as to give a hand to each other in everything that they needed,
+
+159
+00:10:53,756 --> 00:10:58,000
+in such a way that, the first cooperative organizations
+
+160
+00:10:58,100 --> 00:11:00,827
+started to appear in the nation.
+
+161
+00:11:00,927 --> 00:11:02,100
+Thank you, specialist.
+
+162
+00:11:03,000 --> 00:11:06,400
+Many times, cooperatives are out of our sight.
+
+163
+00:11:07,104 --> 00:11:10,000
+Hey, psst, psst, not there!
+
+164
+00:11:11,000 --> 00:11:13,000
+Correct, there.
+
+165
+00:11:14,600 --> 00:11:17,500
+There are different ways of classifing cooperatives.
+
+166
+00:11:17,600 --> 00:11:20,350
+Among them, we find the work cooperatives,
+
+167
+00:11:20,547 --> 00:11:25,500
+which are associations of people gathered with the aim of improving their social and economical situation.
+
+168
+00:11:26,000 --> 00:11:31,800
+In a work cooperative of free software there are workers who think of ideas and develop their culture.
+
+169
+00:11:31,900 --> 00:11:34,500
+But, how does a cooperative work daily?
+
+170
+00:11:35,262 --> 00:11:36,900
+Let's talk with a member of gcoop
+
+171
+00:11:37,927 --> 00:11:39,400
+This is a member.
+
+172
+00:11:39,900 --> 00:11:44,650
+A memeber is a person who works jointly with other people to develop an activity,
+
+173
+00:11:44,818 --> 00:11:47,200
+whether it be business, social, or cultural.
+
+174
+00:11:48,596 --> 00:11:52,400
+We don't sell little boxes, nor we sell licenses, but...
+
+175
+00:11:52,500 --> 00:11:57,500
+... we sell the sevicies associated with software, that is the adaptation, the implementation...
+
+176
+00:11:57,793 --> 00:12:02,650
+and the training to use a specific software that solves a problem of an organization.
+
+177
+00:12:02,765 --> 00:12:05,800
+We get paid, for the associated services, for our work,
+
+178
+00:12:05,937 --> 00:12:09,900
+that is to say we get paid once and we do the job once,
+
+179
+00:12:10,093 --> 00:12:13,700
+in the other model you do the job once, and you get paid for ever.
+
+180
+00:12:13,862 --> 00:12:15,100
+Let's ask the programmer
+
+181
+00:12:15,150 --> 00:12:17,700
+why people think that they can have bigger problems
+
+182
+00:12:17,800 --> 00:12:21,000
+using free software than using proprietary software.
+
+183
+00:12:21,488 --> 00:12:23,400
+There are no software that hasn't got mistakes
+
+184
+00:12:23,576 --> 00:12:26,200
+the difference is that regarding proprietary software,
+
+185
+00:12:26,300 --> 00:12:32,000
+one doesn't see the mistakes and there is a whole marketing campaign that says "this one works, it works perfectly."
+
+186
+00:12:32,197 --> 00:12:36,500
+In free software, we are open-minded and we say "these are the mistakes, we'll correct them."
+
+187
+00:12:36,600 --> 00:12:40,700
+By the way, how can free software help our friend with her problem?
+
+188
+00:12:41,100 --> 00:12:44,400
+Well, she can hire a programmer to solve that problem,
+
+189
+00:12:44,500 --> 00:12:47,500
+here is where I do my part, modifying...
+
+190
+00:12:48,712 --> 00:12:54,400
+...the program so it does what my friend needs it to do. It's in line with the social economic model.
+
+191
+00:12:54,500 --> 00:12:55,200
+What do you mean?
+
+192
+00:12:55,374 --> 00:12:57,500
+Free software is social economy,
+
+193
+00:12:57,600 --> 00:13:02,500
+because it creates local jobs and, as a result, money of the nation stays in the nation.
+
+194
+00:13:03,000 --> 00:13:09,300
+Self-management has the power of taking decisions as opposed to what, some time ago, used to be incumbent on the owners of companies.
+
+195
+00:13:15,000 --> 00:13:16,400
+Boss,#**#*** I resign.
+
+196
+00:13:17,000 --> 00:13:18,700
+Well done, friend.
+
+197
+00:13:20,100 --> 00:13:22,100
+And no fear for your decisions,
+
+198
+00:13:22,200 --> 00:13:24,200
+the software cooperatives of the nation...
+
+199
+00:13:24,300 --> 00:13:30,700
+have gathered in the Argentine Federation Cooperatives of Work of Technology, Innovation and Knowledge
+
+200
+00:13:30,941 --> 00:13:32,000
+(FACTTIC)
+
+201
+00:13:32,100 --> 00:13:33,750
+and they'll never leave you alone.
+
+202
+00:13:34,470 --> 00:13:38,000
+Using software should become a more conscious act.
+
+203
+00:13:38,418 --> 00:13:44,200
+Companies that sell ideas justify their prices by making us believe that software is a huge industry.
+
+204
+00:13:44,762 --> 00:13:49,500
+And our friend has already proved that it's only about the packaging of free ideas.
+
+205
+00:13:50,598 --> 00:13:54,500
+Proprietary software is based on the original idea that cannot be copied.
+
+206
+00:13:54,844 --> 00:13:56,800
+Originality doesn't exist.
+
+207
+00:13:56,900 --> 00:13:58,000
+Humanity exists...
+
+208
+00:13:58,100 --> 00:14:00,300
+and humanity, as far as we know...
+
+209
+00:14:00,400 --> 00:14:04,900
+it feeds itself on culture and advances due to culture by exchanges and rewrites.
+
+210
+00:14:05,622 --> 00:14:09,400
+Our friend has learned that every software is free by itself...
+
+211
+00:14:09,500 --> 00:14:11,600
+and, if she wants to print and spread freely her ideas
+
+212
+00:14:11,700 --> 00:14:15,200
+she can do it better and more affordable through it.
+
+213
+00:14:20,000 --> 00:14:21,600
+But she knows more.
+
+214
+00:14:21,879 --> 00:14:25,200
+She has learned that working in a collective and pleasant manner brings benefits
+
+215
+00:14:25,578 --> 00:14:29,550
+not only economical, but also social for the rest of humankind
+
+216
+00:14:30,000 --> 00:14:35,000
+Our friend is no longer an average human being and she's becoming...
+
+217
+00:14:35,300 --> 00:14:37,100
+a model cooperativist.
+
+218
+00:14:39,787 --> 00:14:41,200
+END
+
+219
+00:14:41,300 --> 00:14:59,000
+sharing is good! translate the subtitles into another language
+
