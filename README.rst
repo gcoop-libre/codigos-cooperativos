@@ -26,3 +26,9 @@ Traducciones
 
 Es deseable la mayor cantidad de traducciones!
 
+
+English
+-------
+
+- Gracias a María Verónica Di Genno, traductora de inglés, M.P. 811
+
