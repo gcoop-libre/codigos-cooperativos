@@ -488,7 +488,7 @@ they are the last ones to find out about changes.It happens the same to our frie
 
 123
 00:08:13,828 --> 00:08:20,950
-On the contrary, cooperative model garanties equal participation in decision making and doing the work.
+On the contrary, cooperative model guarantees equal participation in decision making and doing the work.
 
 124
 00:08:21,280 --> 00:08:26,000
@@ -796,7 +796,7 @@ have gathered in the Argentine Federation Cooperatives of Work of Technology, In
 
 200
 00:13:30,941 --> 00:13:32,000
-(FACTTIC)
+(Spanish acronym FACTTIC)
 
 201
 00:13:32,100 --> 00:13:33,750
