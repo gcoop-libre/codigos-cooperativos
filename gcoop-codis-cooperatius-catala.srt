@@ -1,0 +1,877 @@
+1
+00:00:00,000 --> 00:00:03,000
+Subtítols: Blas Oliva CC-BY-SA
+
+2
+00:00:09,633 --> 00:00:11,000
+Gcoop presenta
+
+3
+00:00:12,270 --> 00:00:14,400
+codis cooperatius
+
+4
+00:00:15,000 --> 00:00:18,000
+La nostra vida és travessada per programes informàtics
+
+5
+00:00:18,100 --> 00:00:19,200
+és a dir, programari
+
+6
+00:00:19,600 --> 00:00:25,870
+Programari es el nom d'una idea o un conjunt d'idees que fan que les màquines funcionin
+
+7
+00:00:26,000 --> 00:00:29,200
+telèfons mòvils, càmeras de fotos, avions o semàfors.
+
+8
+00:00:29,968 --> 00:00:35,660
+Avui dia, les idees que tenen les persones i que fan funcionar a les màquines es venen per tot arreu.
+
+9
+00:00:40,246 --> 00:00:42,000
+Casualment, aquí veïem un esser com qualsevol altre
+
+10
+00:00:42,499 --> 00:00:45,100
+en aquest cas, una dona normal i corrent
+
+11
+00:00:45,826 --> 00:00:48,715
+Està enviant un missatge de text amb el seu telèfon mòvil
+
+12
+00:00:48,815 --> 00:00:52,000
+Tot just acaba de comprar programari de propietat per imprimir algunes idees que l'hi ha demanat el seu cap
+
+13
+00:00:53,094 --> 00:00:54,543
+Hauría d'estar felíç.
+
+14
+00:00:57,476 --> 00:01:00,511
+Però, ¿com es tanca un idea dins d'una caixa i s'aconsegueix vendre-la?
+
+15
+00:01:02,062 --> 00:01:05,062
+Una idea és una forma o apariència que se li ocorre a algú.
+
+16
+00:01:05,162 --> 00:01:07,000
+Diguem que és una cosa immaterial.
+
+17
+00:01:07,100 --> 00:01:11,610
+Per poder mostrar una idea es necessari convertir-la en alguna cosa material.
+
+18
+00:01:11,710 --> 00:01:15,350
+Nosaltres la il·lustrem amb el dibuix d'aquesta bombeta al costat de la nostra amiga 
+
+19
+00:01:15,423 --> 00:01:17,176
+una dona normal i corrent
+
+20
+00:01:17,276 --> 00:01:21,400
+La bombeta és un invent que va patentar Thomas Alva Edison al 1880.
+
+21
+00:01:21,867 --> 00:01:24,850
+Però aquesta idea ja l'havia plantejat Humphry Davy
+
+22
+00:01:25,007 --> 00:01:27,000
+i anteriorment, Warren De La Rue.
+
+23
+00:01:27,213 --> 00:01:33,000
+És a dir, Edison va patentar una idea formada a partir del intercanvi de coneixements.
+
+24
+00:01:33,669 --> 00:01:38,600
+No fa falta que una idea es torni palpable perquè es converteixi amb un objecte material.
+
+25
+00:01:38,700 --> 00:01:42,000
+Molt enrere en el temps, els éssers humans van desenvolupar un llenguatge.
+
+26
+00:01:42,100 --> 00:01:45,100
+que es la matèria que permet representar les idees.
+
+27
+00:01:45,733 --> 00:01:51,500
+El llenguatge permet als éssers humans una relació amb la natura diferent a la d'altres animals.
+
+28
+00:01:52,168 --> 00:01:54,800
+El llenguatge permet l'existència de la cultura,
+
+29
+00:01:54,900 --> 00:02:01,000
+és a dir, aquest intercanvi d'idees que que fa que els éssers humans puguin organitzar-se en comunitat i cooperar. 
+
+30
+00:02:02,614 --> 00:02:05,200
+Aquesta dona normal i corrent pertany a la cultura occidental.
+
+31
+00:02:05,830 --> 00:02:11,100
+En els orígens de la cultura occidental, les persones intercanviaven les idees en assemblees i espais públics oberts.
+
+32
+00:02:11,496 --> 00:02:14,500
+Lamentablement, avui dia els espais públics tenen reixes
+
+33
+00:02:14,601 --> 00:02:17,300
+i les idees no es poden intercanviar tan lliurement.
+
+34
+00:02:17,817 --> 00:02:18,600
+Vegem.
+
+35
+00:02:19,221 --> 00:02:24,400
+Perquè el programari pugui ser un objecte material, algú ha d'haver pensat una idea i haver-la escrit.
+
+36
+00:02:24,691 --> 00:02:27,100
+Es a dir, el programari es una escriptura.
+
+37
+00:02:27,200 --> 00:02:32,100
+Les persones que escriuen idees que despres es converteixen en programari, s'anomenen proramadors o desenvolupadors.
+
+38
+00:02:32,771 --> 00:02:35,500
+Casulament, aquí tenim un programador.
+
+39
+00:02:36,541 --> 00:02:40,700
+El simpàtic programador està desenvolupant una idea utilitzant un llenguatge.
+
+40
+00:02:41,076 --> 00:02:43,700
+però és un idioma que només entenen les màquines...
+
+41
+00:02:44,000 --> 00:02:45,100
+i altres programadors
+
+42
+00:02:46,384 --> 00:02:49,300
+Aquest idioma extrany també s'escriu en un ordinador
+
+43
+00:02:49,400 --> 00:02:52,000
+per dir-li a la màquina que faci alguna cosa.
+
+44
+00:02:52,680 --> 00:02:55,000
+A aquest escrit l'anomenem codi font.
+
+45
+00:02:55,700 --> 00:02:59,650
+El simpàtic programador ha tingut la idea de desenvolupar una bombeta d'un altre color
+
+46
+00:02:59,761 --> 00:03:01,000
+totalment lliure.
+
+47
+00:03:06,844 --> 00:03:09,100
+Com una idea que viatja a través del llenguatge,
+
+48
+00:03:09,200 --> 00:03:12,750
+el programari pot ser copiat, reintrepretat,
+
+49
+00:03:12,890 --> 00:03:15,800
+afegit, reinventat i transmès.
+
+50
+00:03:19,367 --> 00:03:24,000
+Privar al programari de l'esperit colectiu, és privar als éssers humans de l'intercanvi d'idees,
+
+51
+00:03:24,131 --> 00:03:26,500
+és a dir, privar-los de la seva cultura.
+
+52
+00:03:26,845 --> 00:03:29,300
+Es com possar una bombeta darrera d'una finestra
+
+53
+00:03:29,703 --> 00:03:32,000
+o tancar a una persona en una plaça pública.
+
+54
+00:03:33,072 --> 00:03:36,000
+En qualsevol cas, parlem amb un especialista perquè ens ordeni les idees.
+
+55
+00:03:36,526 --> 00:03:38,100
+Això es un especialista.
+
+56
+00:03:38,636 --> 00:03:44,000
+El programari de propietat i el programari lliure es diferèncien bàsicament en les llibertat donades a l'usuari.
+
+57
+00:03:44,100 --> 00:03:46,100
+El programari lliure permet a l'usuari
+
+58
+00:03:46,200 --> 00:03:49,100
+aprendre del programa. modificar-lo...
+
+59
+00:03:49,244 --> 00:03:55,500
+redistribuir-lo, mentre que amb el programari de propietat no pot fer res més que utilitzar-lo amb restriccions.
+
+60
+00:03:55,600 --> 00:03:58,200
+i sempre estarà lligat a l'empresa que el va produir
+
+61
+00:03:58,534 --> 00:04:00,000
+Gràcies, especialista.
+
+62
+00:04:00,278 --> 00:04:03,000
+Però ¿com arribem al programari de propietat?
+
+63
+00:04:03,383 --> 00:04:04,300
+És molt senzill.
+
+64
+00:04:04,464 --> 00:04:10,100
+Les empreses de programari de propietat prenen una idea del simpàtic programador i les tanquen dins del codi font.
+
+65
+00:04:11,000 --> 00:04:16,700
+Sota les lleis de propietat intel·lectual, les quals es van fer promulgar, adópten les formes més restrictives. 
+
+66
+00:04:16,876 --> 00:04:18,500
+"Tots els drets reservats"
+
+67
+00:04:19,607 --> 00:04:25,300
+D'aquesta manera, amb una mica de sort, la nostra amiga només podrà utilitzar el programa.
+
+68
+00:04:26,000 --> 00:04:27,550
+Aquí trobem un "petit" parany.
+
+69
+00:04:27,697 --> 00:04:28,950
+La propietat intel·lectual
+
+70
+00:04:29,041 --> 00:04:33,900
+es basa amb l'idea de l'autor com la persona creadora d'una obra original, sense precedents.
+
+71
+00:04:34,001 --> 00:04:37,400
+No obstant això, la paraula "autor" prové del llatí "auctor",
+
+72
+00:04:37,500 --> 00:04:41,700
+"auctor" prové de "augere": que vol dir augmentar, fer progressar.
+
+73
+00:04:43,000 --> 00:04:45,100
+És a dir, un autor no inventa res
+
+74
+00:04:45,222 --> 00:04:47,300
+Només perfecciona alguna cosa que ja existia.
+
+75
+00:04:48,000 --> 00:04:52,200
+Al 1883, els líders mundials van firmar el Conveni de París,
+
+76
+00:04:52,308 --> 00:04:56,200
+que reconeix legalment la propietat intel·lectual i permet l'exportació d'idees.
+
+77
+00:04:57,200 --> 00:05:01,750
+Es clar que al 1883 no existia el programari tal i com el coneixem avui dia.
+
+78
+00:05:01,922 --> 00:05:04,000
+Parlem amb un altre especialista perquè ens actualitzi.
+
+79
+00:05:04,601 --> 00:05:07,650
+El programari va neixer amb els ordinadors durant la dècada del 50.
+
+80
+00:05:07,800 --> 00:05:15,600
+El programari es transforma amb una mercaderia i es comença a limitar per tal que no sigui...
+El software se transforma en una mercancía y se lo comienza a limitar de forma tal de no sea...
+
+81
+00:05:15,763 --> 00:05:21,550
+...un element disponible com pot ser el coneixement públic
+
+82
+00:05:21,803 --> 00:05:28,000
+amb l'objectiu de permetre el desenvolupament d'empreses cada cop més monopolistes
+
+83
+00:05:28,100 --> 00:05:32,000
+Llavors...¿Que significa això en la vida cotidiana del simpàtic programador?
+
+84
+00:05:32,241 --> 00:05:36,100
+El cost de desenvolupament es redueis cada cop més,
+
+85
+00:05:36,262 --> 00:05:41,500
+es parla de que el programador només obté
+
+86
+00:05:41,660 --> 00:05:44,000
+aproximadament un 5% del cost del programari
+
+87
+00:05:44,100 --> 00:05:49,700
+Mentrestant la resta va a parar al propietari del producte que té d'alguna forma
+
+88
+00:05:49,810 --> 00:05:54,700
+la propietat del codi font, sobre aquesta propietat intel·lectual.
+
+89
+00:05:54,973 --> 00:05:56,080
+Está clar.
+
+90
+00:05:56,200 --> 00:06:01,150
+És a dir, si el simpàtic programador treballara per una empresa internacional de programari de propietat
+
+91
+00:06:01,200 --> 00:06:05,200
+es quedaria només amb el 5% del cost d'empaquetar i vendre la seva idea.
+
+92
+00:06:05,787 --> 00:06:09,800
+La nostra amiga ha sigut víctima de la publicitat i ha desitjat aquest paquet.
+
+93
+00:06:10,439 --> 00:06:11,700
+Anem a veure com li va.
+
+94
+00:06:12,591 --> 00:06:15,600
+Està instal·lant el seu programari de propietat y sembla força feliç.
+
+95
+00:06:16,887 --> 00:06:19,600
+Caram! Quin goig que fa l'entorn d'aquest programa.
+
+96
+00:06:22,375 --> 00:06:26,000
+Rebufa, sembla que alguna cosa no va bé.
+
+97
+00:06:26,424 --> 00:06:30,000
+Al paquet no posaba res de que l'impressora no era compatible amb el programa.
+
+98
+00:06:35,952 --> 00:06:37,600
+Em sembla que haurà de comprar un altre impressora.
+
+99
+00:06:38,190 --> 00:06:42,500
+El seu cap li ha demanat les seves idees perquè la empresa on treballa pugui seguir lucrant-se.
+
+100
+00:06:46,348 --> 00:06:50,000
+Ara sembla que sí podrà imprimir les seves idees per portar-les-hi al seu cap.
+
+101
+00:06:53,383 --> 00:06:56,000
+Ostres, sembla que alguna cosa no va bé.
+
+102
+00:06:56,100 --> 00:07:00,100
+L'antivirus necessita un altre actualització per revisar la nova impressora.
+
+103
+00:07:00,393 --> 00:07:05,000
+És a dir, haurà de comprar un altre programari de propietat i pagar una llicència.
+
+104
+00:07:06,000 --> 00:07:08,000
+No desesperis, amiga.
+
+105
+00:07:08,178 --> 00:07:12,350
+Sabem que moltes coses son horribles, però no tot el programa és de propietat,
+
+106
+00:07:12,414 --> 00:07:15,100
+i no totes les empreses busquen robar-te els diners.
+
+107
+00:07:16,336 --> 00:07:19,800
+El simpàtic programador no ha sigut contractat per una empresa internacional,
+
+108
+00:07:19,900 --> 00:07:23,600
+ha decidit treballar i organitzar-se en una cooperativa de programari lliure.
+
+109
+00:07:23,700 --> 00:07:27,160
+En una cooperativa els socis es reuneixen per cooperar.
+
+110
+00:07:27,336 --> 00:07:31,000
+Cooperar es obrar amb els altres per una mateixa finalitat.
+
+111
+00:07:31,100 --> 00:07:33,000
+Això és una cooperativa
+
+112
+00:07:33,674 --> 00:07:38,000
+El simpàtic programador diu que l'empresa amb finalitats de lucre s'organitza verticalment
+
+113
+00:07:38,100 --> 00:07:40,500
+i les decisions les pren el capitalista.
+
+114
+00:07:40,600 --> 00:07:46,000
+En canvi, en una cooperativa, s'organitzen de forma horitzontal i cada soci representa un vot.
+
+115
+00:07:46,452 --> 00:07:49,500
+És a dir, les decisions es prenen en assemblea.
+
+116
+00:07:53,000 --> 00:07:56,700
+El model de desenvolupament en una empresa de programari de propietat es tancat,
+
+117
+00:07:56,941 --> 00:07:59,140
+l'estructura organitzativa es piramidal,
+
+118
+00:07:59,200 --> 00:08:02,680
+depèn d'un cap, "el que sap, sap. I el que no, es cap"
+
+119
+00:08:02,780 --> 00:08:05,500
+Bàsicament ja sabem qui ha de fer la feina,
+
+120
+00:08:05,653 --> 00:08:06,600
+els treballadors,
+
+121
+00:08:06,700 --> 00:08:09,600
+van tots amb les cames al cul, perquè tot és per demà o per ahir
+
+122
+00:08:09,808 --> 00:08:13,728
+són els últims a assabentar-se, això és el que li passa a la nostra amiga.
+
+123
+00:08:13,828 --> 00:08:20,950
+En contraposició el model cooperatiu garantitza la participació igualitaria amb la presa de decisions i la realització del treball.
+
+124
+00:08:21,280 --> 00:08:26,000
+I aquest es el millor model alienat amb el desenvolupament de programari lliure.
+
+125
+00:08:26,100 --> 00:08:29,100
+Us estareu preguntant, ¿com s'organitza el treball en una cooperativa?
+
+126
+00:08:29,762 --> 00:08:31,500
+Aquí tenim un especialista que ens pot ajudar.
+
+127
+00:08:31,642 --> 00:08:36,400
+En el sistema capitalista, generalment tenim dos tipus d'empreses,
+
+128
+00:08:36,823 --> 00:08:39,900
+les societats de capital i les societats de persones,
+
+129
+00:08:40,013 --> 00:08:46,200
+particularment a les cooperatives, com a la cooperativa on jo treballo i a la qual pertanyo
+
+130
+00:08:46,300 --> 00:08:51,100
+es una empresa on el treballador es proveeix de treball
+
+131
+00:08:51,380 --> 00:08:57,100
+i el treball mana i està subordinant el capital, al contrari passa a les societats de capital.
+
+132
+00:08:57,200 --> 00:08:58,200
+Claríssim.
+
+133
+00:08:58,423 --> 00:09:04,000
+Escolti, ja que vosté es un especialista, ¿pot resumir-nos en vint segons l'origen del capital i el capitalisme? 
+
+134
+00:09:04,100 --> 00:09:05,550
+No... no, no podria...
+
+135
+00:09:05,841 --> 00:09:08,500
+Està bé, tindrem que fer-ho nosaltres.
+
+136
+00:09:09,000 --> 00:09:13,500
+El capitalisme es un sistema económic i polític amb dos elements principals:
+
+137
+00:09:13,700 --> 00:09:21,000
+el capital, que son el recursos que es disposen per produïr alguna cosa. I el capitalista, el que té els recursis i es queda amb els guanys. 
+
+138
+00:09:21,563 --> 00:09:24,000
+Però també es necessari un treballador.
+
+139
+00:09:24,300 --> 00:09:28,300
+La nostra amiga o el simpàtic programador son exemples típis de treballadors.
+
+140
+00:09:28,700 --> 00:09:33,800
+La nostra amiga, degut a l'empresa on treballa, ja intentat trair als seus companys.
+
+141
+00:09:34,604 --> 00:09:39,600
+La major part de les persones al món no tenen mercaderies per vendre al mercat i obtenir guanys.
+
+142
+00:09:39,700 --> 00:09:42,400
+I per aquesta raó, venen la seva força de treball.
+
+143
+00:09:43,477 --> 00:09:47,600
+La força de treball es la capacitat que té qualsevol persona per produir alguna cosa.
+
+144
+00:09:48,300 --> 00:09:51,300
+En vendre-la per unes hores, el capitalista li dona diners.
+
+145
+00:09:51,644 --> 00:09:54,200
+Aquests diners s'anomenem salari.
+
+146
+00:09:54,817 --> 00:09:59,700
+Amb el salari, el capitalista s'estalvia part del cost de la força de treball i se la hi queda per a ell.
+
+147
+00:10:00,313 --> 00:10:04,600
+Aquest estavi s'anomena guany o explotació dels treballadors.
+
+148
+00:10:05,000 --> 00:10:11,000
+La nostra amiga, que es una treballador i ha decidit comprar el programa a una empresa amb finalitats de lucre,
+
+149
+00:10:11,100 --> 00:10:13,000
+li han tret part del seu salari
+
+150
+00:10:13,120 --> 00:10:16,700
+i l'altre part l'ha tingut que gastar en comprar un programari de propietat,
+
+151
+00:10:16,813 --> 00:10:21,000
+una nova impressora i, a més a més, tindrà que comprar un nou antivirus.
+
+152
+00:10:21,352 --> 00:10:25,300
+Preguntem-li a un altre especialista si si està d'acord amb el resum que em fet del capitalisme.
+
+153
+00:10:26,379 --> 00:10:28,400
+Mmmmmm....
+
+154
+00:10:29,246 --> 00:10:34,000
+Donçs bé. Ara, digui'ns, ¿com sorgeix el cooperativisme a Argentina?
+
+155
+00:10:34,100 --> 00:10:42,300
+A finals del segle XIX, va haver-hi una gran inmigració al país i es troben que no tenen
+
+156
+00:10:42,500 --> 00:10:44,700
+absolutament res.
+
+157
+00:10:44,951 --> 00:10:50,650
+Llavors van començar sorgir diferents formes d'organitzar-se
+
+158
+00:10:50,807 --> 00:10:53,656
+per ajudar-se entre ells amb el que necessitaven,
+
+159
+00:10:53,756 --> 00:10:58,000
+de tal manera que van començar a apareixer al país
+
+160
+00:10:58,100 --> 00:11:00,827
+les primeres organitzacions cooperatives.
+
+161
+00:11:00,927 --> 00:11:02,100
+Gràcies, especialista.
+
+162
+00:11:03,000 --> 00:11:06,400
+De vegades, les cooperatives estan fora de la nostra vista.
+
+163
+00:11:07,104 --> 00:11:10,000
+Ep, calla, calla, aquí no!
+
+164
+00:11:11,000 --> 00:11:13,000
+Exacte, aquí.
+
+165
+00:11:14,600 --> 00:11:17,500
+Hi han diferents formes de classificar les cooperatives.
+
+166
+00:11:17,600 --> 00:11:20,350
+Podem trobar les cooperatives de treball,
+
+167
+00:11:20,547 --> 00:11:25,500
+que són associacions de persones reunides amb l'objectiu de millorar la seva situació laboral i econòmica.
+
+168
+00:11:26,000 --> 00:11:31,800
+En un cooperativa de treball de programari lliure hi ha treballadors que pensen idees i desenvolupen la seva cultura.
+
+169
+00:11:31,900 --> 00:11:34,500
+Ara bé, ¿com funciona una cooperativa diariament?
+
+170
+00:11:35,262 --> 00:11:36,900
+Parlem amb un soci de Gcoop.
+
+171
+00:11:37,927 --> 00:11:39,400
+Aquí tenim un soci.
+
+172
+00:11:39,900 --> 00:11:44,650
+Un soci es una persona que treballa amb altres persones per desenvolupar una activitat,
+
+173
+00:11:44,818 --> 00:11:47,200
+sigui empresarial, social o cultural.
+
+174
+00:11:48,596 --> 00:11:52,400
+Nosaltres no venem caixetes, ni venen llicències...
+
+175
+00:11:52,500 --> 00:11:57,500
+...venem els serveis vinculats al programari, és a dir, la adaptació, la implementació...
+
+176
+00:11:57,793 --> 00:12:02,650
+i la capacitació per l'ús de un programari determinat que resol un problema d'una organització. 
+
+177
+00:12:02,765 --> 00:12:05,800
+Ens paguen per els serveis vinculats, per el nostre treball,
+
+178
+00:12:05,937 --> 00:12:09,900
+és a dir, es paguem només un cop i nosaltres fem el treball un cop,
+
+179
+00:12:10,093 --> 00:12:13,700
+en altres models fas el treball un cop i et paguem per sempre.
+
+180
+00:12:13,862 --> 00:12:15,100
+Preguntem-li al programador
+
+181
+00:12:15,150 --> 00:12:17,700
+La gent pensa que pot tenir més inconvenients
+
+182
+00:12:17,800 --> 00:12:21,000
+utilitzant programari lliure que utilitzant programari de propietat.
+
+183
+00:12:21,488 --> 00:12:23,400
+No hi ha programa que no tingui errors
+
+184
+00:12:23,576 --> 00:12:26,200
+la diferència es que en el programari de propietat
+
+185
+00:12:26,300 --> 00:12:32,000
+no veus els errors i té tota una campanya de màrqueting que et diu: "això funciona, aixó funciona de collons"
+
+186
+00:12:32,197 --> 00:12:36,500
+En el programari lliure som oberts i diem: "aquests són els errors, els corregirem".
+
+187
+00:12:36,600 --> 00:12:40,700
+Ja que estem, ¿com pot el programari lliure ajudar amb el seu problema a la nostra amiga?
+
+188
+00:12:41,100 --> 00:12:44,400
+Donçs bé, contracta un programador perquè solucioni el problema,
+
+189
+00:12:44,500 --> 00:12:47,500
+aquí es on entro jo, modificant...
+
+190
+00:12:48,712 --> 00:12:54,400
+...el programa perquè faci el que la meva amiga necessita, està a la línia amb el model de economía social.
+
+191
+00:12:54,500 --> 00:12:55,200
+¿A que et refereixes?
+
+192
+00:12:55,374 --> 00:12:57,500
+Programari lliure és economía social,
+
+193
+00:12:57,600 --> 00:13:02,500
+perquè genera treball local i aconsegueix que els diners del país es quedin al país.
+
+194
+00:13:03,000 --> 00:13:09,300
+La autogestió amb el poder de la presa de decisions es contraposa amb el que abans només li competia als propietaris de les empreses.
+
+195
+00:13:15,000 --> 00:13:16,400
+Jefe,#**#*** Jo renuncio
+
+196
+00:13:17,000 --> 00:13:18,700
+Ben fet, amiga.
+
+197
+00:13:20,100 --> 00:13:22,100
+I a no tenir por de les teves decisions,
+
+198
+00:13:22,200 --> 00:13:24,200
+les cooperatives de programari del país...
+
+199
+00:13:24,300 --> 00:13:30,700
+s'han agrupat amb la Federación Argentina de Cooperativas de Trabajo de Tecnología, Innovación y Conocimiento
+
+200
+00:13:30,941 --> 00:13:32,000
+(FACTTIC)
+
+201
+00:13:32,100 --> 00:13:33,750
+I mai et deixaran sól.
+
+202
+00:13:34,470 --> 00:13:38,000
+L'utilització de programari ha de ser un acte cada vegada més conscient.
+
+203
+00:13:38,418 --> 00:13:44,200
+Les empreses que venen les idees justifiquen el seus preus fent-nos creure que el programa es una gran indústria.
+
+204
+00:13:44,762 --> 00:13:49,500
+I la nostra amiga ja ens ha demostrat que només es tracta de l'empaquetament d'idees lliures.
+
+205
+00:13:50,598 --> 00:13:54,500
+El programari de propietat es basa amb la idea del original que no es pot copiar.
+
+206
+00:13:54,844 --> 00:13:56,800
+la originalitat no existeix.
+
+207
+00:13:56,900 --> 00:13:58,000
+Existeix la humanitat...
+
+208
+00:13:58,100 --> 00:14:00,300
+i la humanitat, fins on sabem...
+
+209
+00:14:00,400 --> 00:14:04,900
+creix i avança per la seva cultura, per medi d'intercanvis i reescritures.
+
+210
+00:14:05,622 --> 00:14:09,400
+La nostra amiga ha après que tot el programari es lliure de per si...
+
+211
+00:14:09,500 --> 00:14:11,600
+i que si vol imprimir i difondre lliurement les seves idees
+
+212
+00:14:11,700 --> 00:14:15,200
+pot fer-ho mimllor i més econòmicament a través d'ell.
+
+213
+00:14:20,000 --> 00:14:21,600
+Però sap més.
+
+214
+00:14:21,879 --> 00:14:25,200
+Ha après que treballar de forma colectiva porta beneficis
+
+215
+00:14:25,578 --> 00:14:29,550
+no només económics, també socials per la resta de la humanitat
+
+216
+00:14:30,000 --> 00:14:35,000
+La nostra amiga ha deixat de ser un ésser humà normal i corrent i s'està convertint en...
+
+217
+00:14:35,300 --> 00:14:37,100
+un cooperativista model.
+
+218
+00:14:39,787 --> 00:14:41,200
+FI
+
+219
+00:14:41,300 --> 00:14:59,000
+¡Compartir és bo!. Tradueix el subtítol a un altre idioma.
+
