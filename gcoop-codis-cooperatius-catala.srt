@@ -20,7 +20,7 @@ La nostra vida és travessada per programes informàtics
 
 6
 00:00:19,600 --> 00:00:25,870
-Programari, és el nom d'una idea o un conjunt d'idees que fan que les màquines funcionin
+Programari és el nom d'una idea o un conjunt d'idees que fan que les màquines funcionin
 
 7
 00:00:26,000 --> 00:00:29,200
@@ -73,7 +73,7 @@ Nosaltres la il·lustrem amb el dibuix d'aquesta bombeta al costat de la nostra 
 19
 00:01:15,423 --> 00:01:17,176
 una dona normal i corrent.
-
+<
 20
 00:01:17,276 --> 00:01:21,400
 La bombeta és un invent que va patentar Thomas Alva Edison al 1880.
@@ -108,11 +108,11 @@ El llenguatge permet als éssers humans una relació amb la natura diferent a la
 
 28
 00:01:52,168 --> 00:01:54,800
-El llenguatge permet l'existència de la cultura,
+El llenguatge permet l'existència de la cultura.
 
 29
 00:01:54,900 --> 00:02:01,000
-és a dir, aquest intercanvi d'idees que que fa que els éssers humans puguin organitzar-se en comunitat i cooperar. 
+És a dir, aquest intercanvi d'idees que fa que els éssers humans puguin organitzar-se en comunitat i cooperar. 
 
 30
 00:02:02,614 --> 00:02:05,200
@@ -140,15 +140,15 @@ Perquè el programari pugui ser un objecte material, algú ha d'haver pensat una
 
 36
 00:02:24,691 --> 00:02:27,100
-Es a dir, el programari es una escriptura.
+Es a dir, el programari és una escriptura.
 
 37
 00:02:27,200 --> 00:02:32,100
-Les persones que escriuen idees que despres es converteixen en programari, s'anomenen proramadors o desenvolupadors.
+Les persones que escriuen idees que despres es converteixen en programari, s'anomenen programadors o desenvolupadors.
 
 38
 00:02:32,771 --> 00:02:35,500
-Casulament, aquí tenim un programador.
+Casualment, aquí tenim un programador.
 
 39
 00:02:36,541 --> 00:02:40,700
@@ -160,7 +160,7 @@ però és un idioma que només entenen les màquines...
 
 41
 00:02:44,000 --> 00:02:45,100
-i altres programadors
+i altres programadors.
 
 42
 00:02:46,384 --> 00:02:49,300
@@ -172,7 +172,7 @@ per dir-li a la màquina que faci alguna cosa.
 
 44
 00:02:52,680 --> 00:02:55,000
-A aquest escrit l'anomenem codi font.
+Aquest escrit és el que anomenem codi font.
 
 45
 00:02:55,700 --> 00:02:59,650
@@ -392,7 +392,7 @@ Em sembla que haurà de comprar un altre impressora.
 
 99
 00:06:38,190 --> 00:06:42,500
-El seu cap li ha demanat les seves idees perquè la empresa on treballa pugui seguir lucrant-se.
+El seu cap li ha demanat les seves idees perquè l'empresa on treballa pugui seguir lucrant-se.
 
 100
 00:06:46,348 --> 00:06:50,000
@@ -444,7 +444,7 @@ Això és una cooperativa
 
 112
 00:07:33,674 --> 00:07:38,000
-El simpàtic programador diu que l'empresa amb finalitats de lucre s'organitza verticalment
+El simpàtic programador diu que una empresa amb finalitats de lucre s'organitza verticalment
 
 113
 00:07:38,100 --> 00:07:40,500
@@ -480,7 +480,7 @@ els treballadors.
 
 121
 00:08:06,700 --> 00:08:09,600
-Van tots amb les cames al cul. Perquè tot és per demà o per ahir.
+Van tots amb les cames al cul perquè tot és per demà o per ahir.
 
 122
 00:08:09,808 --> 00:08:13,728
@@ -516,11 +516,11 @@ particularment a les cooperatives, com a la cooperativa on jo treballo i a la qu
 
 130
 00:08:46,300 --> 00:08:51,100
-es una empresa on el treballador es proveeix de treball
+son empreses on el treballador es proveeix de treball
 
 131
 00:08:51,380 --> 00:08:57,100
-i el treball mana i està subordinant el capital. Al contrari passa a les societats de capital.
+i el treball mana i està subordinant al capital. Al contrari passa a les societats de capital.
 
 132
 00:08:57,200 --> 00:08:58,200
@@ -540,11 +540,11 @@ Està bé, tindrem que fer-ho nosaltres.
 
 136
 00:09:09,000 --> 00:09:13,500
-El capitalisme es un sistema económic i polític amb dos elements principals:
+El capitalisme és un sistema económic i polític amb dos elements principals:
 
 137
 00:09:13,700 --> 00:09:21,000
-el capital, que son el recursos que es disposen per produïr alguna cosa. I el capitalista, el que té els recursis i es queda amb els guanys. 
+el capital, que son el recursos que es disposen per produïr alguna cosa. I el capitalista, que és el que té els recursos i es queda amb els guanys. 
 
 138
 00:09:21,563 --> 00:09:24,000
@@ -552,7 +552,7 @@ Però també es necessari un treballador.
 
 139
 00:09:24,300 --> 00:09:28,300
-La nostra amiga o el simpàtic programador son exemples típis de treballadors.
+La nostra amiga o el simpàtic programador son exemples típics de treballadors.
 
 140
 00:09:28,700 --> 00:09:33,800
@@ -576,7 +576,7 @@ En vendre-la per unes hores, el capitalista li dona diners.
 
 145
 00:09:51,644 --> 00:09:54,200
-Aquests diners s'anomenem salari.
+A aquests diners els anomenem salari.
 
 146
 00:09:54,817 --> 00:09:59,700
@@ -584,19 +584,19 @@ Amb el salari, el capitalista s'estalvia part del cost de la força de treball i
 
 147
 00:10:00,313 --> 00:10:04,600
-Aquest estavi s'anomena guany o explotació dels treballadors.
+Aquest estalvi s'anomena guany o explotació dels treballadors.
 
 148
 00:10:05,000 --> 00:10:11,000
-La nostra amiga, que es una treballador i ha decidit comprar el programa a una empresa amb finalitats de lucre,
+A la nostra amiga, que és una treballadora i ha decidit comprar el programa a una empresa amb finalitats de lucre,
 
 149
 00:10:11,100 --> 00:10:13,000
-li han tret part del seu salari
+li han tret part del seu salari.
 
 150
 00:10:13,120 --> 00:10:16,700
-i l'altre part l'ha tingut que gastar en comprar programari de propietat,
+I l'altre part l'ha tingut que gastar en comprar programari de propietat,
 
 151
 00:10:16,813 --> 00:10:21,000
@@ -604,7 +604,7 @@ una nova impressora i, a més a més, tindrà que comprar un nou antivirus.
 
 152
 00:10:21,352 --> 00:10:25,300
-Preguntem-li a un altre especialista si si està d'acord amb el resum que em fet del capitalisme.
+Preguntem-li a un altre especialista si està d'acord amb el resum que em fet del capitalisme.
 
 153
 00:10:26,379 --> 00:10:28,400
@@ -616,11 +616,11 @@ Donçs bé. Ara digui'ns, ¿com sorgeix el cooperativisme a Argentina?
 
 155
 00:10:34,100 --> 00:10:42,300
-A finals del segle XIX, va haver-hi una gran inmigració al país i es troben que no tenen
+A finals del segle XIX, va haver-hi una gran inmigració al país i es van troben amb que no tenen
 
 156
 00:10:42,500 --> 00:10:44,700
-absolutament res.
+absolutament res, ni cap lloc on anar a parar.
 
 157
 00:10:44,951 --> 00:10:50,650
@@ -648,11 +648,11 @@ De vegades, les cooperatives no es veuen a primera vista.
 
 163
 00:11:07,104 --> 00:11:10,000
-Ep, calla, calla, aquí no!
+Ep, para, escolta, aquí no!
 
 164
 00:11:11,000 --> 00:11:13,000
-Exacte, aquí.
+Exacte, és aquí.
 
 165
 00:11:14,600 --> 00:11:17,500
@@ -684,7 +684,7 @@ Aquí tenim un soci.
 
 172
 00:11:39,900 --> 00:11:44,650
-Un soci es una persona que treballa amb altres persones per desenvolupar una activitat,
+Un soci és una persona que treballa amb altres persones per desenvolupar una activitat,
 
 173
 00:11:44,818 --> 00:11:47,200
@@ -692,11 +692,11 @@ sigui empresarial, social o cultural.
 
 174
 00:11:48,596 --> 00:11:52,400
-Nosaltres no venem caixetes, ni venen llicencies
+Nosaltres no venem capsetes, ni venen llicencies
 
 175
 00:11:52,500 --> 00:11:57,500
-venem els serveis vinculats al programari. És a dir, la adaptació, la implementació
+venem els serveis vinculats al programari. És a dir, l'adaptació, la implementació
 
 176
 00:11:57,793 --> 00:12:02,650
@@ -712,7 +712,7 @@ o sigui, ens paguem només un cop i nosaltres fem el treball un cop.
 
 179
 00:12:10,093 --> 00:12:13,700
-En altres models fas el treball un cop i et paguem per sempre.
+En altres models fas el treball un cop i et paguen per sempre.
 
 180
 00:12:13,862 --> 00:12:15,100
@@ -740,7 +740,7 @@ no veus els errors i té tota una campanya de màrqueting que et diu: "això fun
 
 186
 00:12:32,197 --> 00:12:36,500
-En el programari lliure som oberts i diem: "aquests són els errors, els corregirem".
+Amb el programari lliure som oberts i diem: "aquests són els errors, els corregirem".
 
 187
 00:12:36,600 --> 00:12:40,700
@@ -748,15 +748,15 @@ Ja que estem, ¿com pot el programari lliure ajudar amb el seu problema a la nos
 
 188
 00:12:41,100 --> 00:12:44,400
-Donçs bé, contracta un programador perquè solucioni el problema,
+Donçs bé, contracta un programador perquè solucioni el problema.
 
 189
 00:12:44,500 --> 00:12:47,500
-aquí es on entro jo, modificant...
+Aquí es on entro jo, modificant...
 
 190
 00:12:48,712 --> 00:12:54,400
-...el programa perquè faci el que la meva amiga necessita, està a la línia amb el model de economía social.
+...el programa perquè faci el que la meva amiga necessita, està alienat amb el model de economía social.
 
 191
 00:12:54,500 --> 00:12:55,200
@@ -804,11 +804,11 @@ I mai et deixaran sól.
 
 202
 00:13:34,470 --> 00:13:38,000
-L'utilització de programari ha de ser un acte cada vegada més conscient.
+L'ús de programari ha de ser un acte cada vegada més conscient.
 
 203
 00:13:38,418 --> 00:13:44,200
-Les empreses que venen les idees justifiquen el seus preus fent-nos creure que el programa es una gran indústria.
+Les empreses que venen les idees justifiquen el seus preus fent-nos creure que el programari és una gran indústria.
 
 204
 00:13:44,762 --> 00:13:49,500
@@ -832,7 +832,7 @@ i la humanitat, fins on sabem...
 
 209
 00:14:00,400 --> 00:14:04,900
-creix i avança per la seva cultura, per medi d'intercanvis i reescritures.
+creix i avança per la seva cultura, per medi d'intercanvis i reescriptures.
 
 210
 00:14:05,622 --> 00:14:09,400
@@ -844,11 +844,11 @@ i que si vol imprimir i difondre lliurement les seves idees
 
 212
 00:14:11,700 --> 00:14:15,200
-pot fer-ho mimllor i més econòmicament a través d'ell.
+pot fer-ho millor i més econòmicament d'aquesta manera.
 
 213
 00:14:20,000 --> 00:14:21,600
-Però encara sap més.
+I encara més.
 
 214
 00:14:21,879 --> 00:14:25,200
@@ -856,7 +856,7 @@ Ha après que treballar de forma colectiva porta beneficis
 
 215
 00:14:25,578 --> 00:14:29,550
-i no només económics, també socials per la resta de la humanitat
+i no només económics, també socials per la resta de la humanitat.
 
 216
 00:14:30,000 --> 00:14:35,000
