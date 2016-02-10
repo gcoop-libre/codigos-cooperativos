@@ -32,3 +32,8 @@ English
 
 - Gracias a María Verónica Di Genno, traductora de inglés, M.P. 811
 
+Català
+------
+
+- Gracias a Blas Oliva.
+
